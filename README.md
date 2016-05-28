@@ -1,6 +1,9 @@
-directed-graph-creator
+Manual Japanese Kanji graph using directed-graph-creator
 ======================
+This is a personal kanji graph after manually searching them and just wanting
+to store them.
 
+Code is re-used from https://github.com/metacademy/directed-graph-creator 
 Interactive tool for creating directed graphs, created using d3.js.
 
 Demo: http://bl.ocks.org/cjrd/6863459
